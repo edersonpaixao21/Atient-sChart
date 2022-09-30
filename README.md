@@ -7,7 +7,7 @@ Electronic Medical Record
 ### 🛠  Descrição
 
 </br>
-
+ 
 O projeto tem como objetivo de facilitar o contato entre o profissional de saúde e o paciente, fazendo com que o profissional tenha acesso de forma rápida e fácil a todo histórico do paciente.
 
 
